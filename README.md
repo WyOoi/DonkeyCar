@@ -1,6 +1,9 @@
 # DonkeyCar --WyOOI
 ## V5.0.dev
-Test on the Raspberry Pi 3B with the Operating System RaspberryPi OS Buster 32-bit and the camera Fisheye Lens.
+Raspberry Pi Version: Raspberry Pi 3B
+Operating System: Raspberry Pi OS Buster 32-Bit
+Python version: Python 3.7
+Camera: Fisheye Lens/ Raspberry Pi Camera
 
 # DonkeyROS
 ## release V5.0
